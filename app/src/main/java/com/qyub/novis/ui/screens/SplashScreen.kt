@@ -37,6 +37,6 @@ fun SplashScreen(onFinished: () -> Unit) {
             .alpha(alpha.value),
         contentAlignment = Alignment.Center
     ) {
-        Text("Some Name", color = Color.White, fontSize = 32.sp)
+        Text("Novis", color = Color.White, fontSize = 32.sp)
     }
 }
